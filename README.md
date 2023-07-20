@@ -6,4 +6,4 @@ I'm a high school student. I love reading, love Physics, love coding.
 - 🔭 I’m currently working on a [Python game using pygame](https://github.com/longne123456/FirstGame).
 - 🌱 I’m currently learning Data Analyst on MOOC.
 
-Reaching me via email: `dustnn00@gmail.com`. I'm always up for interesting conversations and collaborations.
+I'm best reached via email: `dustnn00@gmail.com`. I'm always up for interesting conversations and collaborations.
