@@ -1,6 +1,5 @@
 ### Hi I'm Dustin 👋
 
-<!--
 **ducto489/ducto489** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm a high school student in a small city. I love reading, love Physics, love coding.
@@ -10,7 +9,5 @@ I'm a high school student in a small city. I love reading, love Physics, love co
 - 🌱 I’m currently learning Data Analyst on MOOC.
 
 Reaching me via email: `dustnn00@gmail.com `. I'm always up for interesting conversations and collaborations.
-
--->
 
 [facebook]: 
