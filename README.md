@@ -3,7 +3,7 @@
 I'm a high school student. I love reading, love Physics, love coding.
 
 - 🏫 I teach basic C/C++ to students wanting to experience code for their college major.
-- 🔭 I’m currently working on a [Python game using pygame](https://github.com/longne123456/FirstGame).
+- 🔭 I’m currently working on a [Python game using pygame]().
 - 🌱 I’m currently learning Data Analyst on MOOC.
 - 😅 Fun fact: I have learned the [course CS50](https://github.com/ducto489/self-taught-CS50) about C, Python, SQL but don't get a certificate.
 
